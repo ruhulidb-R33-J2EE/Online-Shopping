@@ -18,6 +18,11 @@
 
 <hr/>
 
+<h3>Using IDE for project development</h3>
+ NetBeans IDE 8.2
+
+<hr/>
+
 <h3>Features in this project</h3>
 <ul>
   <li>Add category </li>
