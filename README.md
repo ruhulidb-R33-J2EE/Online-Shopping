@@ -23,7 +23,7 @@
 
 <hr/>
 
-<h3>Features in this project</h3>
+<h3>Project Features</h3>
 <ul>
   <li>Add category </li>
   <li>Add sub-category </li>
