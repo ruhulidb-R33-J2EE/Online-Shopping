@@ -33,3 +33,19 @@
   <li>Edit product in cart</li>
   <li>Application can calculate total price</li>
 </ul>
+
+<hr/>
+<h2>Home Page</h2>
+<img src="Image/HomePage_1.PNG">
+
+<hr/>
+<h2>Featured Products</h2>
+<img src="Image/HomePage_2.PNG">
+
+<hr/>
+<h2>View Product</h2>
+<img src="Image/view_product.PNG">
+
+<hr/>
+<h2>Add Product to Cart</h2>
+<img src="Image/product_add_2_cart.PNG">
