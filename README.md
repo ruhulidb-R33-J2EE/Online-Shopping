@@ -9,10 +9,14 @@
   <li>AJAX</li>
 </ul>
 
+<hr/>
+
 <h3>Database</h3>
 <ul>
   <li>MySQL</li>
 </ul>
+
+<hr/>
 
 <h3>features</h3>
 <ul>
